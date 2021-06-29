@@ -13,4 +13,4 @@ print(a, b, c)
 
 d=3
 b //= d
-print(a, b, c, d)
+print(a, b, c,)
