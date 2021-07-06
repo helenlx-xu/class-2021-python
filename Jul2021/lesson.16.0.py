@@ -6,14 +6,14 @@ n2 = 0b0010
 
 print(n1 & n2)
 
-# '''
+print('''
 print('*-' * 20)
 
 print(~n1)
 
 print(~5)
 
-# '''
+'''
 
 ni = 0b0110
 # Command + / : remark
