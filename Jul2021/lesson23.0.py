@@ -1,19 +1,5 @@
-n = 1
-sum = 0
-while n <= 10:
-    sum += n
-    n += 1
-
-print('累加和: sum=',sum)
-
-count = 0
-while True:
-    print('1111111111')
-    count += 1
-    if count == 5:
-        break
-
 total = 0
+numbers = 0
 while True:
     #先买
     price = float(input('输入价格:'))
@@ -29,5 +15,20 @@ while True:
         break
 
 print('商品数量共:%d,总额是:%.2f' % (numbers,total))
+
+
+import random
+
+ran = random.randint(1,50)
+
+while True:
+    guess = int(input('猜一个1-50之间的数字:'))
+    if guess == ran:
+        print('恭喜猜对啦! ')
+        break
+    elif guess > ran:
+        print('猜大了,再小一点!')
+    elif guess < ran:
+        print('猜小了,再大一点!')
 
     
