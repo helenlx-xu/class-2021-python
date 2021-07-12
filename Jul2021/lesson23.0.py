@@ -29,6 +29,6 @@ while True:
     elif guess > ran:
         print('猜大了,再小一点!')
     elif guess < ran:
-        print('猜小了,再大一点!')
+        print('猜小了')
 
     
