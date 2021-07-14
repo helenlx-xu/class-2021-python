@@ -17,9 +17,7 @@ s1 = 'world'
 print(s1,s2,s3)
 s1 = 'ABCDEFG'
 
-print(s1[6])
-print(s1[5])
-print(s1[4])
+
 print(s1[3])
 print(s1[2])
 print(s1[1])
