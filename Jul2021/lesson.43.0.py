@@ -35,6 +35,6 @@ for i in list:
         t += 1
 
 for i in range(t =1):
-    list.remove(list[0])
+    list.remove(list1[0])
 
-print9list
+print(list1)
