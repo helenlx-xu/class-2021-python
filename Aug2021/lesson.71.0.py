@@ -12,4 +12,4 @@ print('外侧:',t)
 
 x = 100
 x = x + t
-print(x)
+print(x)     

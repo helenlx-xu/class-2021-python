@@ -7,7 +7,7 @@ while True:
     name = input("输入书名")
 
     for book in books:
-        if name in book.values():
+        if name == book.get('name'):
             print("书名重复")
             continue
 
