@@ -21,4 +21,3 @@ def test3():
     a -= 10
     print('a =', a)
 
-print(test1())
