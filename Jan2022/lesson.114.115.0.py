@@ -19,8 +19,3 @@ print(16>>2)
 如果是True则将if前面的内容进行运算，并将结果赋值成result
 如果是False则将else后面的内容进行运算，并将结果赋值成result
 '''
-a = 6
-b = 5
-result = (a+b)   if a>b else (b-a)
-
-print(result)
