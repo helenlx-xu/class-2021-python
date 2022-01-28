@@ -17,3 +17,10 @@ print(5 | 3)
 print(~5)
 
 print(3^5)
+
+# (sanmu)运算符
+
+#格式
+
+# reasult = (8>10)?'真':'假'
+#  print(reasult)
