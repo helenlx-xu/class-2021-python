@@ -21,7 +21,7 @@ print(range(8))
 for i in range(3):
     print('hello ---->',i)
 
-for i in range(200):
+for i in range(2000):
     print('hello ---->',i)
 
 print('---- game over -----')
