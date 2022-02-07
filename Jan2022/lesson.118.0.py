@@ -54,3 +54,16 @@ else:
 import random
 
 print(random.randint(1,10))
+
+'''
+猜大小
+
+步骤:
+1. 系统产生一个随机数
+2. 键盘输入一个数
+3. 将系统产生的与键盘输入的进行比较
+4. 猜对了,中大奖
+   猜错啦  拜拜下次再来
+
+'''
+ran = random.randint(1,10)
