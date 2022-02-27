@@ -26,5 +26,5 @@ for i in range(3):
         print('abcd')
     else:
         print('这家店的馒头真香啊!要多吃几个呀!')
-
-print('---->进入消协大门')
+else:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       print('---->进入消协大门')
