@@ -16,3 +16,4 @@ print('此列表中的元素：')
 for a in range(0,len(t)):
     print(t[a])
  
+ 
