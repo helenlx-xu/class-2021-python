@@ -36,3 +36,9 @@ thisdict = {
   "year": 1964
 }
 print(type(thisdict))
+
+thisset = {"ford"}
+thisdictionary = {"ford":"apple"}
+x = thisset.pop()
+print(x)
+print(thisdictionary[""]) 
