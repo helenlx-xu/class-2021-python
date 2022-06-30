@@ -61,3 +61,5 @@ print(fruits)
 fruits = ['apple','banana','peach']
 fruits.remove("banana")
 print(fruits)
+
+print(1+3)
