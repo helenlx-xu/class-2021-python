@@ -1,5 +1,6 @@
 import numpy
-from sklearn import linear_model#只有两种情况叫做逻辑回归 算可能性但不是概率
+from sklearn import linear_model
+#只有两种情况叫做逻辑回归 算可能性但不是概率
 
 X = numpy.array([3.78, 2.44, 2.09, 0.14, 1.72, 1.65, 4.92, 4.37, 4.96, 4.52, 3.69, 5.88]).reshape(-1,1)
 #x表示肿瘤大小
